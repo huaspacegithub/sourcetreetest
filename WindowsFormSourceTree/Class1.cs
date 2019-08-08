@@ -15,5 +15,7 @@ namespace WindowsFormSourceTree
         public string Address { get; set; }
 
         public string phone { get; set; }
+
+        public string School { get; set }
     }
 }
