@@ -8,12 +8,10 @@ namespace WindowsFormSourceTree
 {
     class Class1
     {
-        public string Name { get; set; }
+        public string Name_b3{ get; set; }
 
-        public int Age_b2 { get; set; }
+        public string phone_b3 { get; set; }
 
-        public string phone_b1 { get; set; }
-
-        public string School_b1 { get; set; }
+        public string School_b3 { get; set; }
     }
 }
