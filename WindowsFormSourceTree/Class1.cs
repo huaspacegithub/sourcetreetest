@@ -10,8 +10,8 @@ namespace WindowsFormSourceTree
     {
         public string Name_b4{ get; set; }
 
-        public string phone_b4 { get; set; }
+        public string phone_b3_3 { get; set; }
 
-        public string School_b4 { get; set; }
+        public string School_b3 { get; set; }
     }
 }
