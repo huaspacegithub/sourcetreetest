@@ -10,7 +10,7 @@ namespace WindowsFormSourceTree
     {
         public string Name { get; set; }
 
-        public int Age { get; set; }
+        public int Age_b1 { get; set; }
 
         public string phone { get; set; }
 
